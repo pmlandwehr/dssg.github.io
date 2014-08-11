@@ -1,12 +1,12 @@
 ---
 layout: team
-title: "Building models to get people enrolled in the ACA"
-published: false
+title: "Smarter Outreach for Health Insurance Enrollment"
+published: true
 ---
 
 <img src="/img/posts/enroll-america-team.png">
 
-The passage of the Affordable Care Act immediately made it possible for all Americans to get healthcare coverage regardless of whether or not they have pre-existing medical conditions, and to get government subsidies to make that care affordable.
+The passage of the Affordable Care Act made it possible for all Americans to immediatelyget healthcare coverage regardless of whether or not they had pre-existing medical conditions, and to receive  government subsidies to make that care affordable.
 
 Nonetheless, many of the uninsured are unaware of what the ACA has meant for them. They don't know that that they are eligible for free or subsidized coverage under the new laws, or even that the ACA exists.
 
